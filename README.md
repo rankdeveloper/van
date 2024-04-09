@@ -6,7 +6,7 @@
 
 ## Home Page
 
-![first](https://github.com/rankdeveloper/van/assets/63696738/4874e4c4-855d-4a4a-b9f6-ac7421a9cebb)
+![first](https://github.com/rankdeveloper/van/assets/63696738/39d6ffe5-53df-40ad-974d-cf3fdf202085)
 
 
 ## About us Page
