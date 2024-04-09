@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+### Vanlife is a React application that serves as a van renting app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### It utilizes React Router for smooth navigation and incorporates various features for an enhanced user experience.
 
-## Available Scripts
+## Preview : 
 
-In the project directory, you can run:
+## Home Page
 
-### `npm start`
+![first](https://github.com/rankdeveloper/van/assets/63696738/4874e4c4-855d-4a4a-b9f6-ac7421a9cebb)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About us Page
 
-### `npm test`
+![about_us](https://github.com/rankdeveloper/van/assets/63696738/6b5f5e14-f1c0-49ae-9eee-dc724ebc951d)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Vans 
 
-### `npm run build`
+![vans1_1](https://github.com/rankdeveloper/van/assets/63696738/366ab272-35d8-4f1b-a22a-ae091f3723bc)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Login Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![login](https://github.com/rankdeveloper/van/assets/63696738/4923940d-c10c-426b-863b-1fff59b15536)
 
-### `npm run eject`
+## Dashboard
+![dashboard](https://github.com/rankdeveloper/van/assets/63696738/04488f74-3cfa-4173-903c-28883fc4757d)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Income
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![income1](https://github.com/rankdeveloper/van/assets/63696738/7d766abd-9c60-4920-b0f7-1bbf4d6dd6f7)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Reviews
+![reviews](https://github.com/rankdeveloper/van/assets/63696738/12f26f31-54b6-4b6d-aa7c-05166ec2211a)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Vans
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![vans](https://github.com/rankdeveloper/van/assets/63696738/5d94af62-3d26-452e-8225-5027e98784df)
